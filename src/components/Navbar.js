@@ -5,11 +5,11 @@ const Navbar = () => {
     return (
         <div>
             <Link to="./sell">
-                فروش
+              sell
             </Link>
             <br/>
             <Link to="./about">
-                درباره
+               about
             </Link>
             <br/>
             <Link to="./admin">
